@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/isabellewei/celo/react-native-system-clock/android/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_light.xml",
+        "source": "/Users/isabellewei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/c762472ede4d8b836f095e56606147b0/res/color-v11/abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "/Users/isabellewei/celo/react-native-system-clock/android/build/intermediates/res/merged/release/color-v11/abc_background_cache_hint_selector_material_dark.xml",
+        "source": "/Users/isabellewei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/c762472ede4d8b836f095e56606147b0/res/color-v11/abc_background_cache_hint_selector_material_dark.xml"
+    }
+]
