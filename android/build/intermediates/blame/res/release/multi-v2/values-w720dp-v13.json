@@ -4,7 +4,7 @@
             "outputFile": "/Users/isabellewei/celo/react-native-system-clock/android/build/intermediates/res/merged/release/values-w720dp-v13/values-w720dp-v13.xml",
             "map": [
                 {
-                    "source": "/Users/isabellewei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/c762472ede4d8b836f095e56606147b0/res/values-w720dp/values-w720dp.xml",
+                    "source": "/Users/isabellewei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/64aaf80fec148c94fb50ca3623c1f6e9/res/values-w720dp/values-w720dp.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "4",
@@ -26,7 +26,7 @@
             "outputFile": "/Users/isabellewei/celo/react-native-system-clock/android/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-w720dp-v13/values-w720dp-v13.xml",
             "map": [
                 {
-                    "source": "/Users/isabellewei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/c762472ede4d8b836f095e56606147b0/res/values-w720dp/values-w720dp.xml",
+                    "source": "/Users/isabellewei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/64aaf80fec148c94fb50ca3623c1f6e9/res/values-w720dp/values-w720dp.xml",
                     "from": {
                         "startLines": "4",
                         "startColumns": "4",

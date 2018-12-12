@@ -4,24 +4,7 @@
             "outputFile": "/Users/isabellewei/celo/react-native-system-clock/android/build/intermediates/incremental/mergeReleaseResources/merged.dir/values-cs/values-cs.xml",
             "map": [
                 {
-                    "source": "/Users/isabellewei/.gradle/caches/transforms-1/files-1.1/react-native-0.20.1.aar/cec618cbf8541135a23038224c2d2f60/res/values-cs/values-cs.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,109,181,260,331,399,455,514",
-                        "endColumns": "53,71,78,70,67,55,58,73",
-                        "endOffsets": "104,176,255,326,394,450,509,583"
-                    },
-                    "to": {
-                        "startLines": "19,20,21,22,23,24,25,26",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "1853,1907,1979,2058,2129,2197,2253,2312",
-                        "endColumns": "53,71,78,70,67,55,58,73",
-                        "endOffsets": "1902,1974,2053,2124,2192,2248,2307,2381"
-                    }
-                },
-                {
-                    "source": "/Users/isabellewei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/c762472ede4d8b836f095e56606147b0/res/values-cs/values-cs.xml",
+                    "source": "/Users/isabellewei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/64aaf80fec148c94fb50ca3623c1f6e9/res/values-cs/values-cs.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -35,6 +18,23 @@
                         "startOffsets": "55,162,271,395,497,606,692,797,914,998,1102,1211,1310,1416,1526,1633,1755,2386",
                         "endColumns": "106,108,123,101,108,85,104,116,83,103,108,98,105,109,106,121,97,100",
                         "endOffsets": "157,266,390,492,601,687,792,909,993,1097,1206,1305,1411,1521,1628,1750,1848,2482"
+                    }
+                },
+                {
+                    "source": "/Users/isabellewei/.gradle/caches/transforms-1/files-1.1/react-native-0.20.1.aar/cccac52b338ac36a7869816bd406c0d2/res/values-cs/values-cs.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,109,181,260,331,399,455,514",
+                        "endColumns": "53,71,78,70,67,55,58,73",
+                        "endOffsets": "104,176,255,326,394,450,509,583"
+                    },
+                    "to": {
+                        "startLines": "19,20,21,22,23,24,25,26",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "1853,1907,1979,2058,2129,2197,2253,2312",
+                        "endColumns": "53,71,78,70,67,55,58,73",
+                        "endOffsets": "1902,1974,2053,2124,2192,2248,2307,2381"
                     }
                 }
             ]
@@ -43,24 +43,7 @@
             "outputFile": "/Users/isabellewei/celo/react-native-system-clock/android/build/intermediates/res/merged/release/values-cs/values-cs.xml",
             "map": [
                 {
-                    "source": "/Users/isabellewei/.gradle/caches/transforms-1/files-1.1/react-native-0.20.1.aar/cec618cbf8541135a23038224c2d2f60/res/values-cs/values-cs.xml",
-                    "from": {
-                        "startLines": "2,3,4,5,6,7,8,9",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "55,109,181,260,331,399,455,514",
-                        "endColumns": "53,71,78,70,67,55,58,73",
-                        "endOffsets": "104,176,255,326,394,450,509,583"
-                    },
-                    "to": {
-                        "startLines": "19,20,21,22,23,24,25,26",
-                        "startColumns": "4,4,4,4,4,4,4,4",
-                        "startOffsets": "1853,1907,1979,2058,2129,2197,2253,2312",
-                        "endColumns": "53,71,78,70,67,55,58,73",
-                        "endOffsets": "1902,1974,2053,2124,2192,2248,2307,2381"
-                    }
-                },
-                {
-                    "source": "/Users/isabellewei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/c762472ede4d8b836f095e56606147b0/res/values-cs/values-cs.xml",
+                    "source": "/Users/isabellewei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/64aaf80fec148c94fb50ca3623c1f6e9/res/values-cs/values-cs.xml",
                     "from": {
                         "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21",
                         "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
@@ -74,6 +57,23 @@
                         "startOffsets": "55,162,271,395,497,606,692,797,914,998,1102,1211,1310,1416,1526,1633,1755,2386",
                         "endColumns": "106,108,123,101,108,85,104,116,83,103,108,98,105,109,106,121,97,100",
                         "endOffsets": "157,266,390,492,601,687,792,909,993,1097,1206,1305,1411,1521,1628,1750,1848,2482"
+                    }
+                },
+                {
+                    "source": "/Users/isabellewei/.gradle/caches/transforms-1/files-1.1/react-native-0.20.1.aar/cccac52b338ac36a7869816bd406c0d2/res/values-cs/values-cs.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,109,181,260,331,399,455,514",
+                        "endColumns": "53,71,78,70,67,55,58,73",
+                        "endOffsets": "104,176,255,326,394,450,509,583"
+                    },
+                    "to": {
+                        "startLines": "19,20,21,22,23,24,25,26",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "1853,1907,1979,2058,2129,2197,2253,2312",
+                        "endColumns": "53,71,78,70,67,55,58,73",
+                        "endOffsets": "1902,1974,2053,2124,2192,2248,2307,2381"
                     }
                 }
             ]

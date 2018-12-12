@@ -1,50 +1,50 @@
 [
     {
         "merged": "/Users/isabellewei/celo/react-native-system-clock/android/build/intermediates/res/merged/release/anim/abc_popup_exit.xml",
-        "source": "/Users/isabellewei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/c762472ede4d8b836f095e56606147b0/res/anim/abc_popup_exit.xml"
+        "source": "/Users/isabellewei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/64aaf80fec148c94fb50ca3623c1f6e9/res/anim/abc_popup_exit.xml"
     },
     {
         "merged": "/Users/isabellewei/celo/react-native-system-clock/android/build/intermediates/res/merged/release/anim/abc_popup_enter.xml",
-        "source": "/Users/isabellewei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/c762472ede4d8b836f095e56606147b0/res/anim/abc_popup_enter.xml"
+        "source": "/Users/isabellewei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/64aaf80fec148c94fb50ca3623c1f6e9/res/anim/abc_popup_enter.xml"
     },
     {
         "merged": "/Users/isabellewei/celo/react-native-system-clock/android/build/intermediates/res/merged/release/anim/abc_slide_in_top.xml",
-        "source": "/Users/isabellewei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/c762472ede4d8b836f095e56606147b0/res/anim/abc_slide_in_top.xml"
+        "source": "/Users/isabellewei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/64aaf80fec148c94fb50ca3623c1f6e9/res/anim/abc_slide_in_top.xml"
     },
     {
         "merged": "/Users/isabellewei/celo/react-native-system-clock/android/build/intermediates/res/merged/release/anim/abc_slide_out_top.xml",
-        "source": "/Users/isabellewei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/c762472ede4d8b836f095e56606147b0/res/anim/abc_slide_out_top.xml"
+        "source": "/Users/isabellewei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/64aaf80fec148c94fb50ca3623c1f6e9/res/anim/abc_slide_out_top.xml"
     },
     {
         "merged": "/Users/isabellewei/celo/react-native-system-clock/android/build/intermediates/res/merged/release/anim/abc_slide_out_bottom.xml",
-        "source": "/Users/isabellewei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/c762472ede4d8b836f095e56606147b0/res/anim/abc_slide_out_bottom.xml"
+        "source": "/Users/isabellewei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/64aaf80fec148c94fb50ca3623c1f6e9/res/anim/abc_slide_out_bottom.xml"
     },
     {
         "merged": "/Users/isabellewei/celo/react-native-system-clock/android/build/intermediates/res/merged/release/anim/abc_fade_in.xml",
-        "source": "/Users/isabellewei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/c762472ede4d8b836f095e56606147b0/res/anim/abc_fade_in.xml"
+        "source": "/Users/isabellewei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/64aaf80fec148c94fb50ca3623c1f6e9/res/anim/abc_fade_in.xml"
     },
     {
         "merged": "/Users/isabellewei/celo/react-native-system-clock/android/build/intermediates/res/merged/release/anim/abc_fade_out.xml",
-        "source": "/Users/isabellewei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/c762472ede4d8b836f095e56606147b0/res/anim/abc_fade_out.xml"
+        "source": "/Users/isabellewei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/64aaf80fec148c94fb50ca3623c1f6e9/res/anim/abc_fade_out.xml"
     },
     {
         "merged": "/Users/isabellewei/celo/react-native-system-clock/android/build/intermediates/res/merged/release/anim/catalyst_push_up_out.xml",
-        "source": "/Users/isabellewei/.gradle/caches/transforms-1/files-1.1/react-native-0.20.1.aar/cec618cbf8541135a23038224c2d2f60/res/anim/catalyst_push_up_out.xml"
+        "source": "/Users/isabellewei/.gradle/caches/transforms-1/files-1.1/react-native-0.20.1.aar/cccac52b338ac36a7869816bd406c0d2/res/anim/catalyst_push_up_out.xml"
     },
     {
         "merged": "/Users/isabellewei/celo/react-native-system-clock/android/build/intermediates/res/merged/release/anim/abc_slide_in_bottom.xml",
-        "source": "/Users/isabellewei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/c762472ede4d8b836f095e56606147b0/res/anim/abc_slide_in_bottom.xml"
+        "source": "/Users/isabellewei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/64aaf80fec148c94fb50ca3623c1f6e9/res/anim/abc_slide_in_bottom.xml"
     },
     {
         "merged": "/Users/isabellewei/celo/react-native-system-clock/android/build/intermediates/res/merged/release/anim/catalyst_push_up_in.xml",
-        "source": "/Users/isabellewei/.gradle/caches/transforms-1/files-1.1/react-native-0.20.1.aar/cec618cbf8541135a23038224c2d2f60/res/anim/catalyst_push_up_in.xml"
+        "source": "/Users/isabellewei/.gradle/caches/transforms-1/files-1.1/react-native-0.20.1.aar/cccac52b338ac36a7869816bd406c0d2/res/anim/catalyst_push_up_in.xml"
     },
     {
         "merged": "/Users/isabellewei/celo/react-native-system-clock/android/build/intermediates/res/merged/release/anim/abc_grow_fade_in_from_bottom.xml",
-        "source": "/Users/isabellewei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/c762472ede4d8b836f095e56606147b0/res/anim/abc_grow_fade_in_from_bottom.xml"
+        "source": "/Users/isabellewei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/64aaf80fec148c94fb50ca3623c1f6e9/res/anim/abc_grow_fade_in_from_bottom.xml"
     },
     {
         "merged": "/Users/isabellewei/celo/react-native-system-clock/android/build/intermediates/res/merged/release/anim/abc_shrink_fade_out_from_bottom.xml",
-        "source": "/Users/isabellewei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/c762472ede4d8b836f095e56606147b0/res/anim/abc_shrink_fade_out_from_bottom.xml"
+        "source": "/Users/isabellewei/.gradle/caches/transforms-1/files-1.1/appcompat-v7-23.0.1.aar/64aaf80fec148c94fb50ca3623c1f6e9/res/anim/abc_shrink_fade_out_from_bottom.xml"
     }
 ]

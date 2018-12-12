@@ -8,7 +8,7 @@ INJECTED from /Users/isabellewei/celo/react-native-system-clock/android/src/main
 INJECTED from /Users/isabellewei/celo/react-native-system-clock/android/src/main/AndroidManifest.xml:2:1-5:12
 INJECTED from /Users/isabellewei/celo/react-native-system-clock/android/src/main/AndroidManifest.xml:2:1-5:12
 	package
-		ADDED from /Users/isabellewei/celo/react-native-system-clock/android/src/main/AndroidManifest.xml:3:11-37
+		ADDED from /Users/isabellewei/celo/react-native-system-clock/android/src/main/AndroidManifest.xml:3:11-36
 		INJECTED from /Users/isabellewei/celo/react-native-system-clock/android/src/main/AndroidManifest.xml
 		INJECTED from /Users/isabellewei/celo/react-native-system-clock/android/src/main/AndroidManifest.xml
 	android:versionName

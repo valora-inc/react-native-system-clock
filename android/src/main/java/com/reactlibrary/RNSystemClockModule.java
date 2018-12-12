@@ -1,11 +1,12 @@
 
-package com.reactlibrary;
+package com.reactmodule;
 
 import com.facebook.react.bridge.ReactApplicationContext;
 import com.facebook.react.bridge.ReactContextBaseJavaModule;
 import com.facebook.react.bridge.ReactMethod;
 import com.facebook.react.bridge.Callback;
 import com.facebook.react.common.SystemClock;
+import com.facebook.react.bridge.Promise;
 
 public class RNSystemClockModule extends ReactContextBaseJavaModule {
 
@@ -22,7 +23,7 @@ public class RNSystemClockModule extends ReactContextBaseJavaModule {
   }
 
   @ReactMethod
-  public long getDeviceTime(){
-    return SystemClock.currentTimeMillis();
+  public void getDeviceTime(Promise promise){
+    promise.resolve(Long.toString(SystemClock.currentTimeMillis()));
   }
 }
