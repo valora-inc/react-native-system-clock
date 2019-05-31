@@ -3,7 +3,7 @@
   "name": "@celo/react-native-system-clock",
   "version": "1.0.0",
   "description": "A simple React Native module to access Android's native system time.",
-  "homepage": "https://github.com/celo-org/react-native-system-clock"
+  "homepage": "https://github.com/celo-org/react-native-system-clock",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
