@@ -1,8 +1,8 @@
 
 {
-  "name": "react-native-system-clock",
+  "name": "@celo/react-native-system-clock",
   "version": "1.0.0",
-  "description": "",
+  "description": "A simple React Native module to access Android's native system time.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -10,11 +10,9 @@
   "keywords": [
     "react-native"
   ],
-  "author": "",
-  "license": "",
+  "author": "Celo Labs Inc.",
+  "license": "MIT",
   "peerDependencies": {
-    "react-native": "^0.41.2",
-    "react-native-windows": "0.41.0-rc.1"
-
+    "react-native": "*"
   }
 }
